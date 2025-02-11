@@ -5,7 +5,7 @@ An advanced, highly scalable platform for code compilation and execution, inspir
 This platform is designed to manage complex coding challenges, compile and execute user code in multiple languages, and provide real-time feedback. Key features include dynamic problem administration, asynchronous submission handling, and real-time updates, all supported by AWS for high availability and fault tolerance
 
 ## High Level Design Of Project
-     ![Architecture for leetcode project-1](https://github.com/user-attachments/assets/2633126e-46b4-4e69-9380-d630e67f826d)
+![Architecture for leetcode project-1](https://github.com/user-attachments/assets/2633126e-46b4-4e69-9380-d630e67f826d)
 
 # Features
 
